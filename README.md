@@ -45,3 +45,7 @@ import { getData } from '@api';
 import { Slide_1 } from '@pages';
 import { arrowIcon } from '@icons';
 ```
+
+## Atomic design
+
+![atomic design](http://bradfrost.com/wp-content/uploads/2015/12/atomic-gif-3.gif)
