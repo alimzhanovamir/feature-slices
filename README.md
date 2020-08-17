@@ -11,7 +11,7 @@
     |       |── model
     |       └── ui
     |           └── templates
-    |               └──  form-template.jsx
+    |               └── form-template.jsx
     |── api
     |── pages
     |   |── slide-1
