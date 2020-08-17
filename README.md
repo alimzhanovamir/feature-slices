@@ -44,5 +44,4 @@ import { Buttom, Icon } from '@ui';
 import { getData } from '@api';
 import { Slide_1 } from '@pages';
 import { arrowIcon } from '@icons';
-import {  }
 ```
