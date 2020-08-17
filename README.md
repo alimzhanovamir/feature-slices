@@ -49,3 +49,7 @@ import { arrowIcon } from '@icons';
 ## Atomic design
 
 ![atomic design](http://bradfrost.com/wp-content/uploads/2015/12/atomic-gif-3.gif)
+
+![atomic design](https://miro.medium.com/max/1575/1*-EpDbcdrdn_sgz5AbRAHFw.gif)
+
+![atomic design](https://miro.medium.com/max/2048/1*i1H2mYXq_v1tSs587n2zwg.gif)
