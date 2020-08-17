@@ -1,6 +1,6 @@
 # Структура
 
-```bash
+```
 src
 |── features
 |   └── form
