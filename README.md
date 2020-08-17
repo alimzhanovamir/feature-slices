@@ -29,7 +29,7 @@ src
 |   |      |── test.js
 |   |      |── readme.md
 |   |      └── button.jsx
-|   |── molucules
+|   |── molecules
 |   |── organisms
 |   └── templates
 └── lib
