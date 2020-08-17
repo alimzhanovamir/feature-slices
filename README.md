@@ -25,12 +25,24 @@ src
 |   └── atoms
 |   |   └── button
 |   |      |── index.js
-|   |         |── style.js
-|   |         |── test.js
-|   |         |── readme.md
-|   |         └── button.jsx
+|   |      |── style.js
+|   |      |── test.js
+|   |      |── readme.md
+|   |      └── button.jsx
 |   |── molucules
 |   |── organisms
 |   └── templates
 └── lib
+```
+
+
+##  Алиасы
+
+```js
+import { Feature } from '@features';
+import { Buttom, Icon } from '@ui';
+import { getData } from '@api';
+import { Slide_1 } from '@pages';
+import { arrowIcon } from '@icons';
+import {  }
 ```
